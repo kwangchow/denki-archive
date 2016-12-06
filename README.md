@@ -1,2 +1,2 @@
-# denki
-Some old documents from the Denki days
+# Denki Archive
+Some old documents from the Denki days.
