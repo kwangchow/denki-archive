@@ -1,7 +1,7 @@
 # The Denki Difference
 Written by Gary Penn ([@garypenn](https://twitter.com/garypenn))
 
-(c) Denki 2011
+(c) [Denki](tab:https://www.denki.co.uk) 2011
 
 There are many ways to interpret these targets and measurements (and sometimes they clash and need balancing) but what follows are some pertinent points.
 
